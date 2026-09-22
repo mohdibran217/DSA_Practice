@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA-FOR-Placement.iml" filepath="$PROJECT_DIR$/DSA-FOR-Placement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single-Number136/Single-Number136.iml" filepath="$PROJECT_DIR$/Single-Number136/Single-Number136.iml" />
     </modules>
   </component>
 </project>
